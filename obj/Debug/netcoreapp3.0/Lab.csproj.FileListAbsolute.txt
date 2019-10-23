@@ -1,0 +1,11 @@
+C:\Users\joseph.kabau\Documents\Dev\Lab\obj\Debug\netcoreapp3.0\Lab.csprojAssemblyReference.cache
+C:\Users\joseph.kabau\Documents\Dev\Lab\obj\Debug\netcoreapp3.0\Lab.AssemblyInfoInputs.cache
+C:\Users\joseph.kabau\Documents\Dev\Lab\obj\Debug\netcoreapp3.0\Lab.AssemblyInfo.cs
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.exe
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.deps.json
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.runtimeconfig.json
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.runtimeconfig.dev.json
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.dll
+C:\Users\joseph.kabau\Documents\Dev\Lab\bin\Debug\netcoreapp3.0\Lab.pdb
+C:\Users\joseph.kabau\Documents\Dev\Lab\obj\Debug\netcoreapp3.0\Lab.dll
+C:\Users\joseph.kabau\Documents\Dev\Lab\obj\Debug\netcoreapp3.0\Lab.pdb
