@@ -8,9 +8,9 @@ namespace Lab
         static int ROW = 0;
         static int COL = 0;
 
-        static string textfile = System.IO.File.ReadAllText("csv.txt");
+        static string textfile = System.IO.File.ReadAllText("word.txt");
 
-        static string[] dictionary = textfile.Split(',');
+        static string[] dictionary = textfile.Split('\n');
 
         static int n = dictionary.Length;
 
